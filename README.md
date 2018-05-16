@@ -1,2 +1,2 @@
-# 05-Guzman-Castillo---Rutas-nestjs
-DEBER 05 SOBRE RUTAS NESTJS ADAN GUZMAN
+# 05-Tamayo Romero---Rutas-nestjs
+DEBER 05 SOBRE RUTAS NESTJS 
